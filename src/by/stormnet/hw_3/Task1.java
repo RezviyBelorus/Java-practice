@@ -1,4 +1,4 @@
-package hw_3;
+package by.stormnet.hw_3;
 
 public class Task1 {
     public static void main(String[] args) {

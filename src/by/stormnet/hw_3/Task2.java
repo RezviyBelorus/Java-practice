@@ -1,4 +1,4 @@
-package hw_3;
+package by.stormnet.hw_3;
 
 import java.math.BigDecimal;
 
