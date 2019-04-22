@@ -1,8 +1,8 @@
-package by.stormnet.hw_3;
+package by.stormnet.hw_3.Task_2;
 
 import java.math.BigDecimal;
 
-public class Task2 {
+public class DoubleSum {
     public static void main(String[] args) {
         double numD1 = 1.2;
         double numD2 = 1.4;

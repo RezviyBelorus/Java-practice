@@ -1,6 +1,6 @@
-package by.stormnet.hw_3;
+package by.stormnet.hw_3.Task_4;
 
-public class Task4 {
+public class MathExp {
     public static void main(String[] args) {
         double degree = 180;
         double radians = Math.toRadians(180);
